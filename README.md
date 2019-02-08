@@ -1,4 +1,4 @@
-# Thailand Card Game Dex
+# Trading Card Game
 the collection app for every collector, but start with Pokemon card first.
 
 ## Stack
