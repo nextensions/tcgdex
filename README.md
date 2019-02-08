@@ -16,6 +16,8 @@ the collection app for every collector, but start with Pokemon card first.
 - [ ] Skeleton 
 - [ ] Card component
 - [ ] Breakdown other components
+- [ ] Transifex
+- [ ] Card arts
 
 ## Sources
 - https://pokemontcg.io
