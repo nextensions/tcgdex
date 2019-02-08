@@ -23,3 +23,4 @@ the collection app for every collector, but start with Pokemon card first.
 - https://pokemontcg.io
 - https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/
 - http://pokeplayer.com/cardex/
+- https://github.com/PokemonTCG/pokemon-tcg-data/ (hi-res)
