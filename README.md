@@ -8,6 +8,7 @@ the collection app for every collector, but start with Pokemon card first.
 - Graphql + Apollo
 
 ## Todo
+- [ ] List features
 - [ ] Pokemon database api
 - [ ] Local data/images 
 - [ ] Design data structure
