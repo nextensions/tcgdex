@@ -19,6 +19,19 @@ the collection app for every collector, but start with Pokemon card first.
 - [ ] Transifex
 - [ ] Card arts
 
+## ORINAL SUN & MOON PACK
+- Team Up
+- Lost Thunder
+- Dragon Majesty
+- Celestial Storm
+- Forbidden Light
+- Ultra Prism
+- Crimson Invasion
+- Shining Legends
+- Guardians Rising
+- Sun & Moon
+- Sun & Moon Promo
+
 ## Sources
 - https://pokemontcg.io
 - https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/
