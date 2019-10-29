@@ -10,6 +10,7 @@
   "dependencies": {
     "cowsay": "^1.4.0",
     "cowsay-browser": "^1.1.8",
+    "immer": "^4.0.2",
     "next": "9.1.1",
     "react": "16.11.0",
     "react-dom": "16.11.0"
