@@ -50,7 +50,7 @@ function CowsayHi() {
       <pre>
         {say({
           text,
-          f: "elephant"
+          f: "chick"
         })}
       </pre>
     </div>
