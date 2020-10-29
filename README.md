@@ -19,7 +19,7 @@ the collection app for every collector, but start with Pokemon card first.
 - [ ] Transifex
 - [ ] Card arts
 
-## ORINAL SUN & MOON PACK
+## ORIGINAL SUN & MOON PACK
 - Team Up
 - Lost Thunder
 - Dragon Majesty
